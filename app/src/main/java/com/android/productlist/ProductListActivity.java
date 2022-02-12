@@ -199,44 +199,44 @@ public class ProductListActivity extends AppCompatActivity {
         if (first == 1) {
             List<Product> products = new ArrayList<>();
 
-            Product product = new Product(1, "Brazilian Dry Oil",
-                    "Brazilian Dry Oil is a fast-absorbing, lightweight oil that can be used daily to smooth",
-                    26.0, 53.534444, -113.490278);
+            Product product = new Product(1, "Anker Sound Core Q20",
+                    "Active noise-cancellation, upto 60hr backup",
+                    36.0, 53.534444, -113.490278);
             products.add(product);
 
-            product = new Product(2	,"Ionic Color Lock"	," Lock in week one color vibrancy for all shades, colors, and blonde tones.",
-                    38.0	,45.424722,	-75.695);
+            product = new Product(2	,"Mac charger"	," 3 metre cable, European standard",
+                    31.2	,45.424722,	-75.695);
             products.add(product);
 
-            product = new Product(3	,"Professional Styling"	,"Smooth or style with this versatile, lightweight, ergonomic styling iron. Far infrared heat penetra",
-                    175.0,49.260833,	-123.113889);
+            product = new Product(3	,"Smok rpm 80Pro"	,"In-built Battery",
+                    75.0,49.260833,	-123.113889);
             products.add(product);
 
-            product = new Product(4	,"Hydrate Conditioning Masque"	,"AVOCADO OILAmong the healthiest natural ingredients on the planet, avocado oil is beneficial for hair",
+            product = new Product(4	,"Rapoo Wireless mouse"	,"Bluetooth 5.0",
                     20.0,43.741667	,-79.373333);
             products.add(product);
 
-            product = new Product(5	,"Smooth Conditioner"	,"AVOCADO OILAmong the healthiest natural ingredients on the planet, avocado oil is beneficial for hair"	,
-                    20.0,49.884444,	-97.146389);
+            product = new Product(5	,"Airpods pro"	,"Genuine airpods pro made by apple"	,
+                    60.0,49.884444,	-97.146389);
             products.add(product);
 
-            product = new Product(6,	"Clean Shampoo"	,"AVOCADO OILAmong the healthiest natural ingredients on the planet, avocado oil is beneficial for hair"	,
+            product = new Product(6,	"Rayban"	,"UV ray protected"	,
                     50.0,53.534444	,-113.490278);
             products.add(product);
 
-            product = new Product(	7,	"Instant Damage Correction Shampoo","The exclusive LEAF & FLOWER CBD Corrective Complex elicits an entourage effect by combining key cann.",
-                    37.0,45.424722,	-75.695);
+            product = new Product(	7,	"Gaming earphone","Surround sound 7.1 audio, the best there is.",
+                    15.0,45.424722,	-75.695);
             products.add(product);
 
-            product = new Product(8,	"SPECIAL SHAMPOO"	,"Special ingredients and tea tree oil rid hair of impurities and leave hair full of vitality and lust."	,
-                    15.0,43.741667,	-79.373333);
+            product = new Product(8,	"Macbook air temper glass"	,"9H glass, UV rays"	,
+                    35.0,43.741667,	-79.373333);
             products.add(product);
 
-            product = new Product(9,	"MOISTURE SHAMPOO",	" Nourish tresses with lightweight moisture while gently cleansing. This breakthrough formula envelo.."
+            product = new Product(9,	"macbook keyboard cover",	" Original cover made of silicon with photoshop keybindings."
                     ,50.0,49.260833,	-123.113889);
             products.add(product);
 
-            product = new Product(10,	"Bombshell Shine Mist"	,"Steal the spotlight in an instant with this weightless, superfine mist. Provides frizz and flyaway .",
+            product = new Product(10,	"Rapoo Wireless Keyboard"	,"Wireless keyboard , bluetooth 5.1, supports all kinds of devices",
                     10.0	,49.884444,-97.146389);
             products.add(product);
 
